@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="wallet" max_length="40" name="x_851054_payment_ptm" sizeclass="16" type="collection">
+        <element label="Adding Amount" max_length="40" name="adding_amount" type="string"/>
+        <element attributes="edge_encryption_enabled=true" calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  &#13;&#10;&#9;&#13;&#10;&#9;// return the calculated value&#13;&#10;&#13;&#10;})(current);" default="10000&#13;&#10;" display="true" label="Balance" max_length="40" name="balance" type="string"/>
+        <element label="Beneficiary" max_length="32" name="beneficiary" reference="x_851054_payment_benificiar" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Of Amount Adding" max_length="40" name="dt_adding" type="glide_date_time"/>
+        <element label="Short Description" max_length="40" name="short_description" type="string"/>
+        <element label="Transfer Account Number" max_length="40" name="transfer_account_number" type="integer"/>
+        <element label="Transfer Amount" max_length="40" name="transfer_amount" type="string"/>
+        <element label="User" max_length="32" name="user" reference="x_851054_payment_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Of Amount Transfer" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <index name="index">
+            <element name="beneficiary"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

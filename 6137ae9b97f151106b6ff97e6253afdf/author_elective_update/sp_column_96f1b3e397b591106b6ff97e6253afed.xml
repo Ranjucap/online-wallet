@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>4</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">1af1b3e397b591106b6ff97e6253afe9</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:20:02</sys_created_on>
+        <sys_id>96f1b3e397b591106b6ff97e6253afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_column_96f1b3e397b591106b6ff97e6253afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:20:02</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_column_96f1b3e397b591106b6ff97e6253afed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>4</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">1af1b3e397b591106b6ff97e6253afe9</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-14 06:20:02</sys_created_on><sys_id>96f1b3e397b591106b6ff97e6253afed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package><sys_policy/><sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope><sys_update_name>sp_column_96f1b3e397b591106b6ff97e6253afed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-14 06:20:02</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>562220270</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:20:02</sys_created_on>
+        <sys_id>9ef1b3e397b591106b6ff97e6253afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833aa78aed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:20:02</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d6f1b3e36cb59110c043b3d996fa8cee</update_guid>
+        <update_guid_history>d6f1b3e36cb59110c043b3d996fa8cee:562220270</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">c734bb6797b591106b6ff97e6253af9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:29:54</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>1c8b255e2ee14cae8574a0eec9d9bb29</sys_id>
+        <sys_metadata>96f1b3e397b591106b6ff97e6253afed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_column_96f1b3e397b591106b6ff97e6253afed</sys_update_name>
+        <sys_update_version display_value="sp_column_96f1b3e397b591106b6ff97e6253afed">9ef1b3e397b591106b6ff97e6253afee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:29:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

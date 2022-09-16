@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>road</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1fb70c3b97f591106b6ff97e6253afe1</sp_column>
+        <sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:01:47</sys_created_on>
+        <sys_id>77f698f7973991106b6ff97e6253afd9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Menu</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_instance_menu_77f698f7973991106b6ff97e6253afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:02:10</sys_updated_on>
+        <title>Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=77f698f7973991106b6ff97e6253afd9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_instance_menu_77f698f7973991106b6ff97e6253afd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>success</color><css/><glyph>road</glyph><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">1fb70c3b97f591106b6ff97e6253afe1</sp_column><sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-14 09:01:47</sys_created_on><sys_id>77f698f7973991106b6ff97e6253afd9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Menu</sys_name><sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package><sys_policy/><sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope><sys_update_name>sp_instance_menu_77f698f7973991106b6ff97e6253afd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-14 09:02:10</sys_updated_on><title>Menu</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=77f698f7973991106b6ff97e6253afd9"/></record_update>]]></payload>
+        <payload_hash>1544066762</payload_hash>
+        <record_name>Menu</record_name>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:02:10</sys_created_on>
+        <sys_id>a9179cf7973991106b6ff97e6253af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833b3bfd2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:02:10</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>e1179cf7b3399110cfce28ef9c285154</update_guid>
+        <update_guid_history>e1179cf7b3399110cfce28ef9c285154:1544066762,33f698f7f73991109dee3ed3153108db:1177123807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Menu">3f27dcf7973991106b6ff97e6253af10</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:02:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>a4a6a1d0e25a44b88fd487d450393040</sys_id>
+        <sys_metadata>77f698f7973991106b6ff97e6253afd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Menu</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_77f698f7973991106b6ff97e6253afd9</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_77f698f7973991106b6ff97e6253afd9">a9179cf7973991106b6ff97e6253af54</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:02:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

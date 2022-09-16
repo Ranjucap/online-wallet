@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_851054_payment_ptm" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>adding_amount</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>8c7e2ad3973551106b6ff97e6253af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>balance</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>847e2ad3973551106b6ff97e6253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>beneficiary</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>087e2ad3973551106b6ff97e6253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dt_adding</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>887e2ad3973551106b6ff97e6253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>0c7e2ad3973551106b6ff97e6253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>transfer_account_number</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>8c7e2ad3973551106b6ff97e6253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>transfer_amount</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>007e2ad3973551106b6ff97e6253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_glide_date_time_2</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>807e2ad3973551106b6ff97e6253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_851054_payment_ptm" element="NULL" name="x_851054_payment_ptm" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f36e2ad3973551106b6ff97e6253af03</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_id>047e2ad3973551106b6ff97e6253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_851054_payment_ptm</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 06:46:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f36e2ad3973551106b6ff97e6253af03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_851054_payment_ptm</sys_name>
+            <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+            <sys_update_name>sys_ui_list_x_851054_payment_ptm_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 06:46:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

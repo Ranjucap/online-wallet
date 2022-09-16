@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">64487b6b97b591106b6ff97e6253afff</sp_column>
+        <sp_widget display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:48:10</sys_created_on>
+        <sys_id>6a68f36b97b591106b6ff97e6253af41</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_instance_6a68f36b97b591106b6ff97e6253af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:52:46</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=6a68f36b97b591106b6ff97e6253af41"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_instance_6a68f36b97b591106b6ff97e6253af41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">64487b6b97b591106b6ff97e6253afff</sp_column><sp_widget display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-14 06:48:10</sys_created_on><sys_id>6a68f36b97b591106b6ff97e6253af41</sys_id><sys_mod_count>8</sys_mod_count><sys_name/><sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package><sys_policy/><sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope><sys_update_name>sp_instance_6a68f36b97b591106b6ff97e6253af41</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-14 07:52:46</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=6a68f36b97b591106b6ff97e6253af41"/></record_update>]]></payload>
+        <payload_hash>949580395</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:52:46</sys_created_on>
+        <sys_id>fc37043b97f591106b6ff97e6253af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833afc72b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:52:46</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>3837043b7df591107461035dfccb562d</update_guid>
+        <update_guid_history>3837043b7df591107461035dfccb562d:949580395,43c60cf778f59110d68387960933c2c8:-296327542,9e9608f7f8f59110c33a5d703df085a3:-1542235479,919648f71df59110f0539aa05a5bbb3b:-296327542,f78608f7d8f59110616ee1e806286a90:949580395,3b8644f7c8f591100610bf4af107ded1:-296327542,4f8608f723f591105af097683fe18d5b:-1542235479,909e7fefb9b59110acc5f2629959408a:1506823880,6e68f36b07b59110acbd0393c272a842:-1623112690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3f37043b97f591106b6ff97e6253afe5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:52:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>34863b52598d45a5a1f4569bcaa2e3b9</sys_id>
+        <sys_metadata>6a68f36b97b591106b6ff97e6253af41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_instance_6a68f36b97b591106b6ff97e6253af41</sys_update_name>
+        <sys_update_version display_value="sp_instance_6a68f36b97b591106b6ff97e6253af41">fc37043b97f591106b6ff97e6253af2d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:52:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

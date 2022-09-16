@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>th</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">64487b6b97b591106b6ff97e6253afff</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:10:06</sys_created_on>
+        <sys_id>f76dfbaf97b591106b6ff97e6253af6d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Total Transactions Details</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_instance_link_f76dfbaf97b591106b6ff97e6253af6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:50:47</sys_updated_on>
+        <title>Total Transactions Details</title>
+        <type>url</type>
+        <url>https://dev83061.service-now.com/now/nav/ui/classic/params/target/x_851054_payment_ptm_list.do%3Fsysparm_userpref_module%3Da3b7621f97f151106b6ff97e6253af4f</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=f76dfbaf97b591106b6ff97e6253af6d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_instance_link_f76dfbaf97b591106b6ff97e6253af6d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;th&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;64487b6b97b591106b6ff97e6253afff&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-14 07:10:06&lt;/sys_created_on&gt;&lt;sys_id&gt;f76dfbaf97b591106b6ff97e6253af6d&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Total Transactions Details&lt;/sys_name&gt;&lt;sys_package display_value="Payment" source="x_851054_payment"&gt;6137ae9b97f151106b6ff97e6253afdf&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Payment"&gt;6137ae9b97f151106b6ff97e6253afdf&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_f76dfbaf97b591106b6ff97e6253af6d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-14 07:50:47&lt;/sys_updated_on&gt;&lt;title&gt;Total Transactions Details&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://dev83061.service-now.com/now/nav/ui/classic/params/target/x_851054_payment_ptm_list.do%3Fsysparm_userpref_module%3Da3b7621f97f151106b6ff97e6253af4f&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=f76dfbaf97b591106b6ff97e6253af6d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2022390813</payload_hash>
+        <record_name>Total Transactions Details</record_name>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:50:47</sys_created_on>
+        <sys_id>77b60cf797f591106b6ff97e6253af1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833afaa0c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:50:47</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>bfb60cf7b6f59110463c97480f8b7b1d</update_guid>
+        <update_guid_history>bfb60cf7b6f59110463c97480f8b7b1d:2022390813,519640f71af59110a39114f7b0eb3ba3:758021724,b38644f7b1f59110f428d1d2fb3065cc:5880569,7e8600f70cf59110680fc9efa3ab5621:2022390813,d41644b73af59110b0bf6d4b94a15fb9:-1008207394,d89efbef21b59110e4e057b30266382c:-322986128,17edfbaf48b59110c1e22c10a53d18a0:455811584,3f6dfbafb7b591108044225eeee85a6e:-49327430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Total Transactions Details">cfc688f797f591106b6ff97e6253af12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:51:00</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>b9f34720a7ad4f279f27c6098e3131a1</sys_id>
+        <sys_metadata>f76dfbaf97b591106b6ff97e6253af6d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Total Transactions Details</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_instance_link_f76dfbaf97b591106b6ff97e6253af6d</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_f76dfbaf97b591106b6ff97e6253af6d">77b60cf797f591106b6ff97e6253af1e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 07:51:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

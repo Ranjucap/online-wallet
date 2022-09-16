@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_851054_payment_ptm">x_851054_payment_ptm</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix/>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 12:57:48</sys_created_on>
+        <sys_id>02ec457b97f991106b6ff97e6253af1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sys_number_02ec457b97f991106b6ff97e6253af1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 12:57:48</sys_updated_on>
+    </sys_number>
+</record_update>

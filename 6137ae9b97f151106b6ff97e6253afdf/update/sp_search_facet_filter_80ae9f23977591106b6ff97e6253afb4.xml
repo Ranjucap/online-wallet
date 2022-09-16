@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_search_facet_filter">
+    <sp_search_facet_filter action="INSERT_OR_UPDATE">
+        <facet/>
+        <mapped_query>nothing</mapped_query>
+        <name>Payment</name>
+        <order>100</order>
+        <sys_class_name>sp_search_facet_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 04:56:13</sys_created_on>
+        <sys_id>80ae9f23977591106b6ff97e6253afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Payment</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_search_facet_filter_80ae9f23977591106b6ff97e6253afb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 04:56:13</sys_updated_on>
+        <table/>
+    </sp_search_facet_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=80ae9f23977591106b6ff97e6253afb4"/>
+</record_update>

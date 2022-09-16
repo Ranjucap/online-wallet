@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>user-plus</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="4">13b74c3b97f591106b6ff97e6253afe0</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 07:55:57</sys_created_on>
+        <sys_id>a3e7007b97f591106b6ff97e6253af71</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>User details</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_instance_link_a3e7007b97f591106b6ff97e6253af71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:55:40</sys_updated_on>
+        <title>User details</title>
+        <type>url</type>
+        <url>https://dev83061.service-now.com/sys_user_list.do?sysparm_target=x_851054_payment_ptm.user&amp;sysparm_target_value=&amp;sysparm_reference_value=&amp;sysparm_nameofstack=reflist&amp;sysparm_clear_stack=true&amp;sysparm_element=user&amp;sysparm_reference=sys_user&amp;sysparm_view=sys</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=a3e7007b97f591106b6ff97e6253af71"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_instance_link_a3e7007b97f591106b6ff97e6253af71</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;success&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;user-plus&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="4"&gt;13b74c3b97f591106b6ff97e6253afe0&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-14 07:55:57&lt;/sys_created_on&gt;&lt;sys_id&gt;a3e7007b97f591106b6ff97e6253af71&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;User details&lt;/sys_name&gt;&lt;sys_package display_value="Payment" source="x_851054_payment"&gt;6137ae9b97f151106b6ff97e6253afdf&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Payment"&gt;6137ae9b97f151106b6ff97e6253afdf&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_a3e7007b97f591106b6ff97e6253af71&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-14 09:55:40&lt;/sys_updated_on&gt;&lt;title&gt;User details&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://dev83061.service-now.com/sys_user_list.do?sysparm_target=x_851054_payment_ptm.user&amp;amp;sysparm_target_value=&amp;amp;sysparm_reference_value=&amp;amp;sysparm_nameofstack=reflist&amp;amp;sysparm_clear_stack=true&amp;amp;sysparm_element=user&amp;amp;sysparm_reference=sys_user&amp;amp;sysparm_view=sys&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a3e7007b97f591106b6ff97e6253af71"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>615923298</payload_hash>
+        <record_name>User details</record_name>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:55:40</sys_created_on>
+        <sys_id>4553e0f3977991106b6ff97e6253af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833b6cf81a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:55:40</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>8d53e0f39079911067cedcc086604a30</update_guid>
+        <update_guid_history>8d53e0f39079911067cedcc086604a30:615923298,8553e0f32379911008594b41bc40d82c:47802459,d85320f33c799110aab0467d0029e084:615923298,c359c47b7ef591104d24dc60c239434b:47802459,264944bb00f59110bc82303ae4b6a1bb:-511224227,6be7007b21f59110f21a1f09fa423c72:-215108083</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="User details">e753a0f3977991106b6ff97e6253afed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 09:55:50</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>7122f90ac01d47b085a142b4ce774640</sys_id>
+        <sys_metadata>a3e7007b97f591106b6ff97e6253af71</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User details</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_instance_link_a3e7007b97f591106b6ff97e6253af71</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_a3e7007b97f591106b6ff97e6253af71">4553e0f3977991106b6ff97e6253af31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 09:55:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

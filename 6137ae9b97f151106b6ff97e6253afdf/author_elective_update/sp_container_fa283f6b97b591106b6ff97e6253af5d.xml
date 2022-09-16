@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Online Wallet Details - Container 5</name>
+        <order>5</order>
+        <sp_page display_value="online_wallet_details">2cdaafe7977591106b6ff97e6253af4c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:47:05</sys_created_on>
+        <sys_id>fa283f6b97b591106b6ff97e6253af5d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Online Wallet Details - Container 5</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_update_name>sp_container_fa283f6b97b591106b6ff97e6253af5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:47:15</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</application>
+        <file_path/>
+        <instance_id>237be4f4db09bbc04d2bac44d496196d</instance_id>
+        <instance_name>dev83061</instance_name>
+        <name>sp_container_fa283f6b97b591106b6ff97e6253af5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Online Wallet Details - Container 5</name><order>5</order><sp_page display_value="online_wallet_details">2cdaafe7977591106b6ff97e6253af4c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-14 06:47:05</sys_created_on><sys_id>fa283f6b97b591106b6ff97e6253af5d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Online Wallet Details - Container 5</sys_name><sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package><sys_policy/><sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope><sys_update_name>sp_container_fa283f6b97b591106b6ff97e6253af5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-14 06:47:15</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>524328692</payload_hash>
+        <record_name>Online Wallet Details - Container 5</record_name>
+        <reverted_from/>
+        <source>2937ae9b97f151106b6ff97e6253afe1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:47:15</sys_created_on>
+        <sys_id>05387f6b97b591106b6ff97e6253af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833ac075910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:47:15</sys_updated_on>
+        <type>Container</type>
+        <update_guid>4d387f6b10b59110fa8cf1b84d405711</update_guid>
+        <update_guid_history>4d387f6b10b59110fa8cf1b84d405711:524328692,0438f36b66b59110d10e013e1cf3c4dc:-1532180077,7a283f6b6fb591102b1a035e424b4d5e:706278450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Online Wallet Details - Container 5">2238bb6b97b591106b6ff97e6253af41</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-14 06:47:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>220d3a9632c745a08fa36c03c9434400</sys_id>
+        <sys_metadata>fa283f6b97b591106b6ff97e6253af5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Online Wallet Details - Container 5</sys_name>
+        <sys_package display_value="Payment" source="x_851054_payment">6137ae9b97f151106b6ff97e6253afdf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Payment">6137ae9b97f151106b6ff97e6253afdf</sys_scope>
+        <sys_scope_delete display_value="">189f7316d4844ece82733c2adb72ff84</sys_scope_delete>
+        <sys_update_name>sp_container_fa283f6b97b591106b6ff97e6253af5d</sys_update_name>
+        <sys_update_version display_value="sp_container_fa283f6b97b591106b6ff97e6253af5d">05387f6b97b591106b6ff97e6253af12</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-14 06:47:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
